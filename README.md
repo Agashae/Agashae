@@ -1,43 +1,40 @@
 # 👋 Salut, moi c’est Agashae Premakumar
 
-💻 Étudiant en informatique à l'ETML
-
-🚀 Passionné par les systèmes, les réseaux et le développement web
-
-🧠 J'aime comprendre comment fonctionnent réellement les technologies que j'utilise
-
-🔍 Toujours en train d'apprendre, expérimenter et construire de nouveaux projets
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span>💻 Étudiant en informatique à l'ETML</span>
+  <img src="https://www.etml.ch/themes/etml/assets/images/etml_logo_complet.svg" alt="Logo ETML" width="150">
+</div>
 ---
 
 ## À propos de moi
 
 Je m'intéresse particulièrement à :
 
-- 🌐 Développement web
-- 🖥️ Systèmes et administration Linux
-- 🔗 Réseaux informatiques
-- ☁️ Cloud et déploiement
-- 🚀 Technologies spatiales
-
-Mon objectif est de développer une compréhension complète des systèmes informatiques, depuis l'infrastructure jusqu'aux applications.
-
+- 🌐🖥️ Informatique
+- 🚘 Automobile
+- 🚀 Astronomie/Spatial
+- 🧰 (Tout ce qui est technique)
+- 🧈 Design des objets
+- ⚽ Sport
 ---
 
 ## 🛠️ Technologies
 
-### Langages
+### 💻 Systèmes, Réseaux & Scripting
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Cisco-00BCE4?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Développement Web (Fondations)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Outils
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
+### 🔧 Outils & Environnement
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![](https://img.shields.io/badge/IA_%26_Prompting-🤖-purple?style=for-the-badge)
 ---
 
 ## 🚀 Projets
@@ -75,13 +72,11 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 
 ---
 
-## 🎯 Objectifs 2026
+## 🎯 Objectifs 
 
-- Approfondir Linux et l'administration système
-- Développer davantage de projets web complets
-- Découvrir les technologies cloud
-- Renforcer mes compétences en réseau
-- Contribuer à des projets open source
+- Apprendre pleins de domaines différents
+- Faire pleins de projets cools et différents
+- Apprendre toujours +
 
 ---
 
@@ -91,6 +86,4 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 https://www.linkedin.com/in/agashae-premakumar/
 
 📧 Contact :
-Ajoute ton adresse email ici
-
-⭐ N'hésite pas à explorer mes projets et à suivre mon évolution.
+pv31hsu@eduvaud.ch
