@@ -1,21 +1,24 @@
-# 👋 Salut, moi c’est Agashae Premakumar
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span>💻 Étudiant en informatique à l'ETML</span>
-  <img src="https://www.etml.ch/themes/etml/assets/images/etml_logo_complet.svg" alt="Logo ETML" width="150">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Salut%2C+moi+c%27est+Agashae+!+%F0%9F%91%8B;%C3%89tudiant+en+info+%40+ETML+%F0%9F%8E%93;Passionn%C3%A9+par+la+tech+%26+le+design+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
----
+
+
 
 ## À propos de moi
 
-Je m'intéresse particulièrement à :
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Agashae&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-- 🌐🖥️ Informatique
+
+### J'adore particulièrement :
+
+- 🖥️ Informatique
 - 🚘 Automobile
 - 🚀 Astronomie/Spatial
-- 🧰 (Tout ce qui est technique)
-- 🧈 Design des objets
-- ⚽ Sport
+- 🧰 (Tout ce qui est technique, je peux rester devant un monument pendant 10 minutes pour comprendre comment il tient)
+- 🧈 Design des objets (Surtout Apple)
+- ⚽ Sport (je peux me passionner pour tous les sports)
 ---
 
 ## 🛠️ Technologies
@@ -80,10 +83,28 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 
 ---
 
-## 🌐 Me retrouver
+## 💼 Me retrouver
 
-💼 LinkedIn :
-https://www.linkedin.com/in/agashae-premakumar/
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/agashae-premakumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pv31hsu@eduvaud.ch">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://odd-sky-d9db.agashaebeylight.workers.dev/HTML/Accueil/Accueil">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.etml.ch">
+    <img src="https://img.shields.io/badge/ETML-003087?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="ETML"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agashae&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-📧 Contact :
-pv31hsu@eduvaud.ch
+---
+## Création
+
+<p>aide de Antigravity pour les animations<p\>
