@@ -44,7 +44,7 @@
 
 ### 🌐 Site web personnel
 
-🔗 https://odd-sky-d9db.agashaebeylight.workers.dev/HTML/Accueil/Accueil
+🔗 https://agashae.github.io/SitesWeb/
 
 Projet réalisé pour comprendre le développement web sans framework.
 
