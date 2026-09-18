@@ -63,15 +63,10 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Agashae&show_icons=true&theme=tokyonight&hide=issues,prs&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Agashae&theme=tokyonight&hide_border=true" />
 </p>
 
-### Langages les plus utilisés
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Agashae&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -107,4 +102,4 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 ---
 ## Création
 
-<p>aide de Antigravity pour les animations<p\>
+<p>Aide d'Antigravity pour les animations.<p\>
