@@ -19,22 +19,21 @@
 - 🧰 (Tout ce qui est technique, je peux rester devant un monument pendant 10 minutes pour comprendre comment il tient)
 - 🧈 Design des objets (Surtout Apple)
 - ⚽ Sport (je peux me passionner pour tous les sports)
+- 📖 Lecture
+- ☕ Café...
 ---
-
 ## 🛠️ Technologies
 
 ### 💻 Systèmes, Réseaux & Scripting
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://github-widgetbox.vercel.app/api/skills?languages=bash,powershell,python&includeNames=true&theme=dark)
+![](https://github-widgetbox.vercel.app/api/skills?software=linux&includeNames=true&theme=dark)
 ![](https://img.shields.io/badge/Cisco-00BCE4?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Développement Web (Fondations)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://github-widgetbox.vercel.app/api/skills?languages=html,css&includeNames=true&theme=dark)
 
 ### 🔧 Outils & Environnement
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://github-widgetbox.vercel.app/api/skills?tools=git&includeNames=true&theme=dark)
 ![](https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![](https://img.shields.io/badge/IA_%26_Prompting-🤖-purple?style=for-the-badge)
@@ -45,18 +44,6 @@
 ### 🌐 Site web personnel
 
 🔗 https://agashae.github.io/SitesWeb/
-
-Projet réalisé pour comprendre le développement web sans framework.
-
-**Compétences travaillées :**
-- Structure HTML
-- Mise en page CSS
-- Navigation frontend
-- Hébergement et déploiement
-- Organisation de projet
-
-**Objectif :**
-Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
 
 ---
 
@@ -88,7 +75,7 @@ Comprendre le fonctionnement complet d'un site web moderne en partant des bases.
   <a href="mailto:pv31hsu@eduvaud.ch">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://odd-sky-d9db.agashaebeylight.workers.dev/HTML/Accueil/Accueil">
+  <a href="https://agashae.github.io/SitesWeb/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.etml.ch">
