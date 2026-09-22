@@ -1,0 +1,23 @@
+<svg width="160" height="194" viewBox="0 0 160 194" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card" x="0" y="0" width="160" height="194" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="emailGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#FF9A8B"/>
+      <stop offset="1" stop-color="#EA4335"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#card)">
+    <rect width="130" height="164" rx="30" transform="translate(15 12)" fill="#111"/>
+  </g>
+  <rect width="80" height="80" rx="20" transform="translate(40 40)" fill="url(#emailGradient)"/>
+  <g transform="translate(56 56) scale(2)" fill="#fff">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+  <text x="80" y="154" font-size="16" font-family="Roboto, sans-serif" font-weight="300" fill="#FF9A8B" text-anchor="middle">Email</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="160" height="194" viewBox="0 0 160 194" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card" x="0" y="0" width="160" height="194" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="portfolioGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#6E6E6E"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#card)">
+    <rect width="130" height="164" rx="30" transform="translate(15 12)" fill="#111"/>
+  </g>
+  <rect width="80" height="80" rx="20" transform="translate(40 40)" fill="url(#portfolioGradient)"/>
+  <g transform="translate(56 56) scale(2)" fill="#fff">
+    <path d="m12 1.608 12 20.784H0Z"/>
+  </g>
+  <text x="80" y="154" font-size="16" font-family="Roboto, sans-serif" font-weight="300" fill="#bfbfbf" text-anchor="middle">Portfolio</text>
+</svg>

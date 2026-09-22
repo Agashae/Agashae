@@ -77,16 +77,16 @@
 ## 💼 Me retrouver
 
   <a href="https://www.linkedin.com/in/agashae-premakumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="assets/badge-linkedin.svg" alt="LinkedIn"/>
   </a>
   <a href="mailto:pv31hsu@eduvaud.ch">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="assets/badge-email.svg" alt="Email"/>
   </a>
   <a href="https://agashae.github.io/SitesWeb/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="assets/badge-portfolio.svg" alt="Portfolio"/>
   </a>
   <a href="https://www.etml.ch">
-    <img src="https://img.shields.io/badge/ETML-003087?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="ETML"/>
+    <img src="assets/badge-etml.svg" alt="ETML"/>
   </a>
 </div>
 <div align="center">
