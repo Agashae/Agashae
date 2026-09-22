@@ -22,9 +22,9 @@
 - 📖 Lecture
 - ☕ Café...
 ---
-## 🛠️ Technologies
-
 <div align="center">
+
+## 🛠️ Technologies
 
 ### 💻 Systèmes, Réseaux & Scripting
 
