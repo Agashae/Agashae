@@ -1,0 +1,49 @@
+<svg width="364" height="194" viewBox="0 0 364 194" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card" x="0" y="0" width="364" height="194" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="vboxGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#5AA0DA"/>
+      <stop offset="1" stop-color="#183A61"/>
+    </linearGradient>
+    <linearGradient id="officeGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#FFB27A"/>
+      <stop offset="1" stop-color="#D83B01"/>
+    </linearGradient>
+    <linearGradient id="aiGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#C9A6F5"/>
+      <stop offset="1" stop-color="#8E44AD"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#card)">
+    <rect width="334" height="164" rx="30" transform="translate(15 12)" fill="#111"/>
+  </g>
+
+  <!-- VirtualBox -->
+  <rect width="80" height="80" rx="20" transform="translate(40 40)" fill="url(#vboxGradient)"/>
+  <g transform="translate(56 56) scale(2)" fill="#fff">
+    <path d="M0 1.758 5.182 20c.129.455.25.691.421.945.063.092.13.179.202.264.173.204.37.378.59.525.243.163.49.286.763.371.324.1.61.137.99.137h4.327l1.918-6.615h6.798v3.699a.11.11 0 0 1-.109.11h-4.88l-.813 2.806h5.654a2.92 2.92 0 0 0 1.95-.725A2.903 2.903 0 0 0 24 19.285v-6.47H12.28l-1.919 6.614H7.937L3.715 4.564h2.922l1.546 5.444H11.1l-2.343-8.25zm15.496 0-2.4 8.25H24v-5.29a2.962 2.962 0 0 0-1.825-2.741 3.044 3.044 0 0 0-1.129-.22zm2.11 2.806h3.476a.11.11 0 0 1 .11.112V7.2h-4.354z"/>
+  </g>
+  <text x="80" y="154" font-size="16" font-family="Roboto, sans-serif" font-weight="300" fill="#5AA0DA" text-anchor="middle">VirtualBox</text>
+
+  <!-- Microsoft Office -->
+  <rect width="80" height="80" rx="20" transform="translate(142 40)" fill="url(#officeGradient)"/>
+  <g fill="#fff">
+    <rect x="157" y="55" width="22" height="22" rx="6"/>
+    <rect x="185" y="55" width="22" height="22" rx="6" opacity="0.85"/>
+    <rect x="157" y="83" width="22" height="22" rx="6" opacity="0.85"/>
+    <rect x="185" y="83" width="22" height="22" rx="6" opacity="0.7"/>
+  </g>
+  <text x="182" y="154" font-size="16" font-family="Roboto, sans-serif" font-weight="300" fill="#FF8A50" text-anchor="middle">Office</text>
+
+  <!-- IA & Prompting -->
+  <rect width="80" height="80" rx="20" transform="translate(244 40)" fill="url(#aiGradient)"/>
+  <text x="284" y="92" font-size="40" text-anchor="middle">🤖</text>
+  <text x="284" y="154" font-size="13" font-family="Roboto, sans-serif" font-weight="300" fill="#C9A6F5" text-anchor="middle">IA &amp; Prompting</text>
+</svg>

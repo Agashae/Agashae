@@ -31,7 +31,7 @@
 ![](https://github-widgetbox.vercel.app/api/skills?languages=bash,powershell,python&includeNames=true&theme=dark)
 
 ![](https://github-widgetbox.vercel.app/api/skills?software=linux&includeNames=true&theme=dark)
-![](https://img.shields.io/badge/Cisco-00BCE4?style=for-the-badge&logo=cisco&logoColor=white)
+![](assets/skills-cisco.svg)
 
 ### 🌐 Développement Web (Fondations)
 
@@ -40,9 +40,7 @@
 ### 🔧 Outils & Environnement
 
 ![](https://github-widgetbox.vercel.app/api/skills?tools=git&includeNames=true&theme=dark)
-![](https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![](https://img.shields.io/badge/IA_%26_Prompting-🤖-purple?style=for-the-badge)
+![](assets/skills-outils-extra.svg)
 
 </div>
 
