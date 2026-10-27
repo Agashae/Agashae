@@ -85,8 +85,8 @@
 
 <table>
   <tr>
-    <td align="center" width="250">🧭<br>Apprendre pleins de domaines différents</td>
-    <td align="center" width="250">💡<br>Faire pleins de projets cools et différents</td>
+    <td align="center" width="250">🧭<br>Apprendre plein de domaines différents</td>
+    <td align="center" width="250">💡<br>Faire plein de projets cools et différents</td>
     <td align="center" width="250">📈<br>Apprendre toujours +</td>
   </tr>
 </table>
