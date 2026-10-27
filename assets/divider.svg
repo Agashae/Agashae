@@ -1,0 +1,25 @@
+<svg width="1000" height="24" viewBox="0 0 1000 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#58A6FF"/>
+      <stop offset="0.7" stop-color="#8E44AD"/>
+      <stop offset="1" stop-color="#8E44AD" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="100" y="10" width="800" height="4" rx="2"/>
+    </clipPath>
+  </defs>
+  <rect x="100" y="10" width="800" height="4" rx="2" fill="url(#line)"/>
+  <g clip-path="url(#clip)">
+    <rect x="-200" y="10" width="160" height="4" fill="url(#shine)">
+      <animate attributeName="x" from="-200" to="1000" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <circle cx="500" cy="12" r="5" fill="#58A6FF"/>
+</svg>

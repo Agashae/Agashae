@@ -1,0 +1,36 @@
+<svg width="480" height="140" viewBox="0 0 480 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card" x="0" y="0" width="480" height="140" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="siteGradient" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#8CC8FF"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#card)">
+    <rect width="450" height="110" rx="30" transform="translate(15 12)" fill="#111"/>
+  </g>
+
+  <!-- Icône globe -->
+  <rect width="70" height="70" rx="18" transform="translate(35 32)" fill="url(#siteGradient)"/>
+  <g transform="translate(70 67)" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round">
+    <circle r="20"/>
+    <ellipse rx="9" ry="20"/>
+    <line x1="-20" y1="0" x2="20" y2="0"/>
+    <path d="M-17 -10 H17 M-17 10 H17"/>
+  </g>
+
+  <text x="128" y="62" font-size="20" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="500" fill="#E6EDF3">Site web personnel</text>
+  <text x="128" y="90" font-size="15" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="300" fill="#58A6FF">🔗 agashae.github.io/SitesWeb</text>
+
+  <!-- Flèche -->
+  <g transform="translate(428 52)" fill="none" stroke="#8B949E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 14 L14 0 M4 0 H14 V10"/>
+  </g>
+</svg>

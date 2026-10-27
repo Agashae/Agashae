@@ -4,24 +4,35 @@
   </a>
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
 
+<div align="center">
 
-## À propos de moi
+## 🧑‍💻 À propos de moi
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Agashae&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
+### ❤️ J'adore particulièrement :
 
-### J'adore particulièrement :
+<table>
+  <tr>
+    <td align="center" width="200">🖥️<br><b>Informatique</b></td>
+    <td align="center" width="200">🚘<br><b>Automobile</b></td>
+    <td align="center" width="200">🚀<br><b>Astronomie/Spatial</b></td>
+    <td align="center" width="200">🧰<br><b>Tout ce qui est technique</b><br><sub>je peux rester devant un monument pendant 10 minutes pour comprendre comment il tient</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="200">🧈<br><b>Design des objets</b><br><sub>Surtout Apple</sub></td>
+    <td align="center" width="200">⚽<br><b>Sport</b><br><sub>je peux me passionner pour tous les sports</sub></td>
+    <td align="center" width="200">📖<br><b>Lecture</b></td>
+    <td align="center" width="200">☕<br><b>Café...</b></td>
+  </tr>
+</table>
 
-- 🖥️ Informatique
-- 🚘 Automobile
-- 🚀 Astronomie/Spatial
-- 🧰 (Tout ce qui est technique, je peux rester devant un monument pendant 10 minutes pour comprendre comment il tient)
-- 🧈 Design des objets (Surtout Apple)
-- ⚽ Sport (je peux me passionner pour tous les sports)
-- 📖 Lecture
-- ☕ Café...
----
+</div>
+
+<br>
+
 <div align="center">
 
 ## 🛠️ Technologies
@@ -44,56 +55,77 @@
 
 </div>
 
----
+<br>
+
+<div align="center">
 
 ## 🚀 Projets
 
-### 🌐 Site web personnel
+<a href="https://agashae.github.io/SitesWeb/">
+  <img src="assets/project-siteweb.svg" alt="🌐 Site web personnel — 🔗 https://agashae.github.io/SitesWeb/" />
+</a>
 
-🔗 https://agashae.github.io/SitesWeb/
+</div>
 
----
+<br>
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Agashae&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Agashae&theme=tokyonight&hide_border=true&border_radius=30&background=111111&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D&locale=fr" alt="GitHub Streak" />
 
+</div>
 
+<br>
 
----
+<div align="center">
 
-## 🎯 Objectifs 
+## 🎯 Objectifs
 
-- Apprendre pleins de domaines différents
-- Faire pleins de projets cools et différents
-- Apprendre toujours +
+<table>
+  <tr>
+    <td align="center" width="250">🧭<br>Apprendre pleins de domaines différents</td>
+    <td align="center" width="250">💡<br>Faire pleins de projets cools et différents</td>
+    <td align="center" width="250">📈<br>Apprendre toujours +</td>
+  </tr>
+</table>
 
----
+</div>
+
+<br>
 
 <div align="center">
 
 ## 💼 Me retrouver
 
-  <a href="https://www.linkedin.com/in/agashae-premakumar/">
-    <img src="assets/badge-linkedin.svg" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pv31hsu@eduvaud.ch">
-    <img src="assets/badge-email.svg" alt="Email"/>
-  </a>
-  <a href="https://agashae.github.io/SitesWeb/">
-    <img src="assets/badge-portfolio.svg" alt="Portfolio"/>
-  </a>
-  <a href="https://www.etml.ch">
-    <img src="assets/badge-etml.svg" alt="ETML"/>
-  </a>
+<a href="https://www.linkedin.com/in/agashae-premakumar/">
+  <img src="assets/badge-linkedin.svg" alt="LinkedIn" />
+</a>
+<a href="mailto:pv31hsu@eduvaud.ch">
+  <img src="assets/badge-email.svg" alt="Email" />
+</a>
+<a href="https://agashae.github.io/SitesWeb/">
+  <img src="assets/badge-portfolio.svg" alt="Portfolio" />
+</a>
+<a href="https://www.etml.ch">
+  <img src="assets/badge-etml.svg" alt="ETML" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Agashae&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agashae&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+
+### ✨ Création
+
+<sub>Aide d'Antigravity pour les animations.</sub>
+
 </div>
-
----
-## Création
-
-<p>Aide d'Antigravity pour les animations.<p\>
