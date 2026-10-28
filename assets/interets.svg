@@ -1,0 +1,87 @@
+<svg width="684" height="138" viewBox="0 0 684 138" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="card" x="0" y="0" width="684" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="tint0" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint1" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#FF6B6B" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#FF6B6B" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint2" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#A371F7" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint3" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#F0883E" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#F0883E" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint4" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#E3B341" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#E3B341" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint5" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#3FB950" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#3FB950" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint6" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#DB61A2" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#DB61A2" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tint7" x1="0.085" y1="0.941" x2="0.939" y2="0.123">
+      <stop offset="0" stop-color="#C69026" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#C69026" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+
+  <g filter="url(#card)">
+    <rect width="654" height="108" rx="30" transform="translate(15 12)" fill="#111"/>
+  </g>
+
+  <!-- Informatique -->
+  <rect x="37" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="37" y="34" width="64" height="64" rx="18" fill="url(#tint0)" stroke="#58A6FF" stroke-opacity="0.35"/>
+  <text x="69" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🖥️</text>
+
+  <!-- Automobile -->
+  <rect x="115" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="115" y="34" width="64" height="64" rx="18" fill="url(#tint1)" stroke="#FF6B6B" stroke-opacity="0.35"/>
+  <text x="147" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🚘</text>
+
+  <!-- Astronomie/Spatial -->
+  <rect x="193" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="193" y="34" width="64" height="64" rx="18" fill="url(#tint2)" stroke="#A371F7" stroke-opacity="0.35"/>
+  <text x="225" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🚀</text>
+
+  <!-- Technique -->
+  <rect x="271" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="271" y="34" width="64" height="64" rx="18" fill="url(#tint3)" stroke="#F0883E" stroke-opacity="0.35"/>
+  <text x="303" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🧰</text>
+
+  <!-- Design des objets -->
+  <rect x="349" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="349" y="34" width="64" height="64" rx="18" fill="url(#tint4)" stroke="#E3B341" stroke-opacity="0.35"/>
+  <text x="381" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🧈</text>
+
+  <!-- Sport -->
+  <rect x="427" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="427" y="34" width="64" height="64" rx="18" fill="url(#tint5)" stroke="#3FB950" stroke-opacity="0.35"/>
+  <text x="459" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">⚽</text>
+
+  <!-- Lecture -->
+  <rect x="505" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="505" y="34" width="64" height="64" rx="18" fill="url(#tint6)" stroke="#DB61A2" stroke-opacity="0.35"/>
+  <text x="537" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">📖</text>
+
+  <!-- Café -->
+  <rect x="583" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="583" y="34" width="64" height="64" rx="18" fill="url(#tint7)" stroke="#C69026" stroke-opacity="0.35"/>
+  <text x="615" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">☕</text>
+</svg>

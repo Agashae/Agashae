@@ -14,20 +14,7 @@
 
 ### ❤️ J'adore particulièrement :
 
-<table>
-  <tr>
-    <td align="center" width="200">🖥️<br><b>Informatique</b></td>
-    <td align="center" width="200">🚘<br><b>Automobile</b></td>
-    <td align="center" width="200">🚀<br><b>Astronomie/Spatial</b></td>
-    <td align="center" width="200">🧰<br><b>Tout ce qui est technique</b><br><sub>je peux rester devant un monument pendant 10 minutes pour comprendre comment il tient</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="200">🧈<br><b>Design des objets</b><br><sub>Surtout Apple</sub></td>
-    <td align="center" width="200">⚽<br><b>Sport</b><br><sub>je peux me passionner pour tous les sports</sub></td>
-    <td align="center" width="200">📖<br><b>Lecture</b></td>
-    <td align="center" width="200">☕<br><b>Café...</b></td>
-  </tr>
-</table>
+<img src="assets/interets.svg" alt="🖥️ 🚘 🚀 🧰 🧈 ⚽ 📖 ☕" />
 
 </div>
 
@@ -37,16 +24,25 @@
 
 ## 🛠️ Technologies
 
-### 💻 Systèmes, Réseaux & Scripting
+### 💻 Systèmes & Scripting
 
-![](https://github-widgetbox.vercel.app/api/skills?languages=bash,powershell,python&includeNames=true&theme=dark)
+![](https://github-widgetbox.vercel.app/api/skills?languages=powershell,python&includeNames=true&theme=dark)
 
 ![](https://github-widgetbox.vercel.app/api/skills?software=linux&includeNames=true&theme=dark)
+![](assets/skills-os.svg)
+
+### 🛡️ Réseaux & Sécurité
+
 ![](assets/skills-cisco.svg)
+![](assets/skills-reseau-securite.svg)
 
-### 🌐 Développement Web (Fondations)
+### 🌐 Développement
 
-![](https://github-widgetbox.vercel.app/api/skills?languages=html,css&includeNames=true&theme=dark)
+![](https://github-widgetbox.vercel.app/api/skills?languages=csharp,html,css&includeNames=true&theme=dark)
+
+### 🗄️ Bases de données
+
+![](assets/skills-bdd.svg)
 
 ### 🔧 Outils & Environnement
 
