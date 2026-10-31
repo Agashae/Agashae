@@ -11,10 +11,35 @@
       <stop offset="0" stop-color="#8CC8FF"/>
       <stop offset="1" stop-color="#1F6FEB"/>
     </linearGradient>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F2E"/>
+      <stop offset="1" stop-color="#1E1548"/>
+    </linearGradient>
   </defs>
 
   <g filter="url(#card)">
-    <rect width="450" height="110" rx="30" transform="translate(15 12)" fill="#111"/>
+    <rect width="450" height="110" rx="30" transform="translate(15 12)" fill="url(#space)" stroke="#8B7CF6" stroke-opacity="0.35"/>
+  </g>
+  <g>
+    <circle cx="288.9" cy="75.8" r="0.5" fill="#fff" opacity="0.62"/>
+    <circle cx="424.4" cy="26.8" r="0.7" fill="#fff" opacity="0.66"/>
+    <circle cx="401.1" cy="57.6" r="0.7" fill="#fff" opacity="0.46"/>
+    <circle cx="160.4" cy="28.8" r="1.3" fill="#C4B5FD" opacity="0.67"/>
+    <circle cx="393.2" cy="31.0" r="0.5" fill="#fff" opacity="0.66"/>
+    <circle cx="275.0" cy="48.3" r="1.1" fill="#fff" opacity="0.56"/>
+    <circle cx="180.9" cy="37.9" r="0.7" fill="#fff" opacity="0.76"/>
+    <circle cx="374.2" cy="91.0" r="0.5" fill="#fff" opacity="0.65"/>
+    <circle cx="247.7" cy="71.2" r="0.7" fill="#C4B5FD" opacity="0.58"/>
+    <circle cx="144.4" cy="92.5" r="0.5" fill="#fff" opacity="0.58"/>
+    <circle cx="270.3" cy="29.2" r="1.1" fill="#fff" opacity="0.32"/>
+    <circle cx="331.0" cy="79.6" r="0.9" fill="#C4B5FD" opacity="0.53"/>
+    <circle cx="165.6" cy="85.7" r="0.5" fill="#fff" opacity="0.79"/>
+    <circle cx="236.4" cy="100.4" r="0.9" fill="#fff" opacity="0.33"/>
+    <circle cx="152.3" cy="103.3" r="0.7" fill="#fff" opacity="0.33"/>
+    <circle cx="431.7" cy="98.0" r="0.5" fill="#fff" opacity="0.75"/>
+    <circle cx="427.3" cy="54.8" r="0.9" fill="#fff" opacity="0.7"/>
+    <circle cx="397.0" cy="63.9" r="0.9" fill="#fff" opacity="0.4"/>
+    <circle cx="125.1" cy="87.9" r="0.7" fill="#fff" opacity="0.36"/>
   </g>
 
   <!-- Icône globe -->
@@ -26,11 +51,11 @@
     <path d="M-17 -10 H17 M-17 10 H17"/>
   </g>
 
-  <text x="128" y="62" font-size="20" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="500" fill="#E6EDF3">Site web personnel</text>
-  <text x="128" y="90" font-size="15" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="300" fill="#58A6FF">🔗 agashae.github.io/SitesWeb</text>
+  <text x="128" y="62" font-size="20" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="500" fill="#F5F3FF">Site web personnel</text>
+  <text x="128" y="90" font-size="15" font-family="Roboto, Segoe UI, Helvetica, Arial, sans-serif" font-weight="300" fill="#C4B5FD">🔗 agashae.github.io/SitesWeb</text>
 
   <!-- Flèche -->
-  <g transform="translate(428 52)" fill="none" stroke="#8B949E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(428 52)" fill="none" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M0 14 L14 0 M4 0 H14 V10"/>
   </g>
 </svg>

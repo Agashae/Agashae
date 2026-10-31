@@ -39,49 +39,82 @@
       <stop offset="0" stop-color="#C69026" stop-opacity="0.15"/>
       <stop offset="1" stop-color="#C69026" stop-opacity="0.5"/>
     </linearGradient>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0F2E"/>
+      <stop offset="1" stop-color="#1E1548"/>
+    </linearGradient>
   </defs>
 
   <g filter="url(#card)">
-    <rect width="654" height="108" rx="30" transform="translate(15 12)" fill="#111"/>
+    <rect width="654" height="108" rx="30" transform="translate(15 12)" fill="url(#space)" stroke="#8B7CF6" stroke-opacity="0.35"/>
+  </g>
+  <g>
+    <circle cx="95.7" cy="73.3" r="0.7" fill="#FDE68A" opacity="0.57"/>
+    <circle cx="598.8" cy="92.8" r="0.7" fill="#fff" opacity="0.73"/>
+    <circle cx="463.7" cy="64.4" r="0.7" fill="#fff" opacity="0.38"/>
+    <circle cx="535.1" cy="43.7" r="0.7" fill="#fff" opacity="0.62"/>
+    <circle cx="596.4" cy="34.4" r="1.3" fill="#fff" opacity="0.7"/>
+    <circle cx="224.7" cy="40.6" r="0.7" fill="#fff" opacity="0.5"/>
+    <circle cx="414.1" cy="31.5" r="0.5" fill="#fff" opacity="0.42"/>
+    <circle cx="558.3" cy="89.7" r="1.3" fill="#fff" opacity="0.56"/>
+    <circle cx="464.8" cy="29.1" r="0.7" fill="#FDE68A" opacity="0.34"/>
+    <circle cx="260.6" cy="87.8" r="0.7" fill="#fff" opacity="0.77"/>
+    <circle cx="114.6" cy="72.8" r="0.5" fill="#fff" opacity="0.46"/>
+    <circle cx="468.6" cy="39.8" r="1.1" fill="#fff" opacity="0.61"/>
+    <circle cx="452.8" cy="48.5" r="0.9" fill="#fff" opacity="0.31"/>
+    <circle cx="473.7" cy="29.6" r="0.9" fill="#fff" opacity="0.73"/>
+    <circle cx="469.4" cy="92.9" r="0.7" fill="#fff" opacity="0.26"/>
+    <circle cx="548.5" cy="68.8" r="0.7" fill="#C4B5FD" opacity="0.69"/>
+    <circle cx="614.0" cy="73.6" r="1.1" fill="#FDE68A" opacity="0.53"/>
+    <circle cx="246.4" cy="87.6" r="1.1" fill="#fff" opacity="0.29"/>
+    <circle cx="318.9" cy="43.6" r="1.1" fill="#C4B5FD" opacity="0.33"/>
+    <circle cx="653.5" cy="56.8" r="1.3" fill="#fff" opacity="0.65"/>
+    <circle cx="654.8" cy="90.3" r="0.7" fill="#fff" opacity="0.61"/>
+    <circle cx="461.7" cy="42.8" r="0.7" fill="#fff" opacity="0.56"/>
+    <circle cx="506.7" cy="40.0" r="0.9" fill="#fff" opacity="0.54"/>
+    <circle cx="31.4" cy="92.1" r="0.9" fill="#FDE68A" opacity="0.51"/>
+    <circle cx="469.6" cy="30.0" r="0.7" fill="#FDE68A" opacity="0.51"/>
+    <circle cx="600.8" cy="89.7" r="1.3" fill="#fff" opacity="0.57"/>
+    <circle cx="530.7" cy="70.3" r="0.7" fill="#C4B5FD" opacity="0.53"/>
   </g>
 
   <!-- Informatique -->
-  <rect x="37" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="37" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="37" y="34" width="64" height="64" rx="18" fill="url(#tint0)" stroke="#58A6FF" stroke-opacity="0.35"/>
   <text x="69" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🖥️</text>
 
   <!-- Automobile -->
-  <rect x="115" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="115" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="115" y="34" width="64" height="64" rx="18" fill="url(#tint1)" stroke="#FF6B6B" stroke-opacity="0.35"/>
   <text x="147" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🚘</text>
 
   <!-- Astronomie/Spatial -->
-  <rect x="193" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="193" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="193" y="34" width="64" height="64" rx="18" fill="url(#tint2)" stroke="#A371F7" stroke-opacity="0.35"/>
   <text x="225" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🚀</text>
 
   <!-- Technique -->
-  <rect x="271" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="271" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="271" y="34" width="64" height="64" rx="18" fill="url(#tint3)" stroke="#F0883E" stroke-opacity="0.35"/>
   <text x="303" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🧰</text>
 
   <!-- Design des objets -->
-  <rect x="349" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="349" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="349" y="34" width="64" height="64" rx="18" fill="url(#tint4)" stroke="#E3B341" stroke-opacity="0.35"/>
   <text x="381" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">🧈</text>
 
   <!-- Sport -->
-  <rect x="427" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="427" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="427" y="34" width="64" height="64" rx="18" fill="url(#tint5)" stroke="#3FB950" stroke-opacity="0.35"/>
   <text x="459" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">⚽</text>
 
   <!-- Lecture -->
-  <rect x="505" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="505" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="505" y="34" width="64" height="64" rx="18" fill="url(#tint6)" stroke="#DB61A2" stroke-opacity="0.35"/>
   <text x="537" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">📖</text>
 
   <!-- Café -->
-  <rect x="583" y="34" width="64" height="64" rx="18" fill="#1C1D21"/>
+  <rect x="583" y="34" width="64" height="64" rx="18" fill="#141A42"/>
   <rect x="583" y="34" width="64" height="64" rx="18" fill="url(#tint7)" stroke="#C69026" stroke-opacity="0.35"/>
   <text x="615" y="78" font-size="34" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" text-anchor="middle">☕</text>
 </svg>
